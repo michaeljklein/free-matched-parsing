@@ -59,3 +59,7 @@ Functor f => ComonadCofree (FoldF f a) (Matched a f)
 ```
 
 
+# Docs
+
+Haddock generated documentation may be found [here](https://michaeljklein.github.io/free-matched-parsing/)
+
